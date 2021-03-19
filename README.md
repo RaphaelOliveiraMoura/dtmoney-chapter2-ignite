@@ -1,4 +1,4 @@
-## DT Money
+## DT Money by Gilles
 
 <h1 align="center">
   <p align="center" style="background: #5429cc">
