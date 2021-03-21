@@ -84,6 +84,7 @@ export const GlobalStyle = createGlobalStyle`
 
     &:hover {
       filter: brightness(0.7);
+  
     }
   }
 `;
