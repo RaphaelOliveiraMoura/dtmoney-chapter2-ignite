@@ -18,6 +18,10 @@ export const Container = styled.form`
     font-size: 1rem;
     transition: filter 0.5s;
 
+    &:focus {
+      border: 1px solid red;
+    }
+
     &::placeholder {
       color: var(--text-body);
     }
